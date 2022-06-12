@@ -1,0 +1,17 @@
+{
+  "short_name": "Six Brasses",
+  "name": "Six Brasses",
+  "icons": [
+    {
+      "src": "images/spades.svg",
+      "purpose": "any",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": "./",
+  "scope": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#99acb1"
+}
