@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ff4620f2.css",
-    "main.js": "/static/js/main.c6fec089.js",
+    "main.css": "/static/css/main.8e8fcb59.css",
+    "main.js": "/static/js/main.3f8b5ce7.js",
     "static/media/black_joker.svg": "/static/media/black_joker.4f785e455cb72f8c58b0.svg",
     "static/media/red_joker.svg": "/static/media/red_joker.8028777d118a842036db.svg",
     "static/media/backspace.svg": "/static/media/backspace.f03d2bef7fe987595719.svg",
@@ -14,7 +14,7 @@
     "static/media/diamonds.svg": "/static/media/diamonds.e6461345ed9e6b494b43.svg"
   },
   "entrypoints": [
-    "static/css/main.ff4620f2.css",
-    "static/js/main.c6fec089.js"
+    "static/css/main.8e8fcb59.css",
+    "static/js/main.3f8b5ce7.js"
   ]
 }
