@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c04ae13d.css",
-    "main.js": "/static/js/main.a240970e.js",
+    "main.js": "/static/js/main.e0953e31.js",
     "static/media/black_joker.svg": "/static/media/black_joker.4f785e455cb72f8c58b0.svg",
     "static/media/red_joker.svg": "/static/media/red_joker.8028777d118a842036db.svg",
     "static/media/backspace.svg": "/static/media/backspace.f03d2bef7fe987595719.svg",
@@ -15,6 +15,6 @@
   },
   "entrypoints": [
     "static/css/main.c04ae13d.css",
-    "static/js/main.a240970e.js"
+    "static/js/main.e0953e31.js"
   ]
 }
