@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.70629834.css",
-    "main.js": "/static/js/main.1db86c97.js",
+    "main.css": "/static/css/main.a35cf429.css",
+    "main.js": "/static/js/main.0602c4c4.js",
     "static/media/black_joker.svg": "/static/media/black_joker.4f785e455cb72f8c58b0.svg",
     "static/media/red_joker.svg": "/static/media/red_joker.8028777d118a842036db.svg",
     "index.html": "/index.html",
@@ -11,7 +11,7 @@
     "static/media/diamonds.svg": "/static/media/diamonds.e6461345ed9e6b494b43.svg"
   },
   "entrypoints": [
-    "static/css/main.70629834.css",
-    "static/js/main.1db86c97.js"
+    "static/css/main.a35cf429.css",
+    "static/js/main.0602c4c4.js"
   ]
 }
