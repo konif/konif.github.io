@@ -1,23 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.b58cf184.css",
-    "main.js": "/static/js/main.2e92bc28.js",
+    "main.css": "/static/css/main.3e7fc47d.css",
+    "main.js": "/static/js/main.c3801a08.js",
     "static/media/black_joker.svg": "/static/media/black_joker.4f785e455cb72f8c58b0.svg",
-    "static/media/black_joker_dark.svg": "/static/media/black_joker_dark.056179824f6f0d154323.svg",
     "static/media/red_joker.svg": "/static/media/red_joker.8028777d118a842036db.svg",
-    "static/media/red_joker_dark.svg": "/static/media/red_joker_dark.849fbc8bf46ccff803e7.svg",
     "index.html": "/index.html",
     "static/media/spades.svg": "/static/media/spades.58399e00e47d483050a6.svg",
     "static/media/spades_dark.svg": "/static/media/spades_dark.bee6d3e86e5ace88f5ed.svg",
     "static/media/clubs.svg": "/static/media/clubs.f10028cd47a204e49e94.svg",
-    "static/media/clubs_dark.svg": "/static/media/clubs_dark.b1d775ad2ae9180b870e.svg",
     "static/media/hearts.svg": "/static/media/hearts.f5336e47b8683b24ce19.svg",
-    "static/media/hearts_dark.svg": "/static/media/hearts_dark.e882e128826083df8ca5.svg",
-    "static/media/diamonds.svg": "/static/media/diamonds.e6461345ed9e6b494b43.svg",
-    "static/media/diamonds_dark.svg": "/static/media/diamonds_dark.d4e0db4421588499c4e3.svg"
+    "static/media/diamonds.svg": "/static/media/diamonds.e6461345ed9e6b494b43.svg"
   },
   "entrypoints": [
-    "static/css/main.b58cf184.css",
-    "static/js/main.2e92bc28.js"
+    "static/css/main.3e7fc47d.css",
+    "static/js/main.c3801a08.js"
   ]
 }
